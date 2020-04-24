@@ -1,0 +1,11 @@
+{
+  "name": "bs-stack-overflow",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "bsb -clean-world -make-world"
+  },
+  "dependencies": {
+    "bs-platform": "7.2.2"
+  }
+}

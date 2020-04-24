@@ -1,0 +1,16 @@
+{
+  "name": "bs-stack-overflow",
+  "sources": ["src"],
+  "reason": {
+    "react-jsx": 3
+  },
+  "refmt": 3,
+  "package-specs": {
+    "module": "es6",
+    "in-source": true
+  },
+  "suffix": ".bs.js",
+  "warnings": {
+    "number": "+A"
+  }
+}
